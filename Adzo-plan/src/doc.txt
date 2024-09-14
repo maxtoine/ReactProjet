@@ -1,0 +1,2 @@
+https://docs.expo.dev/versions/latest/sdk/gesture-handler/
+https://fr.react.dev/learn/scaling-up-with-reducer-and-context
